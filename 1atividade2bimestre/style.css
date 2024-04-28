@@ -1,0 +1,58 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 247, 142);
+}
+.telalogin{
+    background-color: rgba(255, 255, 255, 0.774);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 5%;
+    border-radius: 10%;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    width: 20%;
+    height: 50%;
+   
+    
+}
+.text{
+    margin-top: -2%;
+}
+label{
+    font-size: 150%;
+    margin-top: 14%;   
+    
+}
+input {
+    padding: 5%;
+    width: 90%;
+    border: none;
+    outline: none;
+    font-size: 100%;
+}
+button{
+    background-color: rgb(255, 139, 139) ;
+    padding: 5%;
+    border: none;
+    outline: none;
+    font-size: 100%;
+    width: 100%;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color:rgb(50, 146, 255);
+}
+#mensagem{
+    margin-top: 4%;
+    font-size: 150%;
+}
+img{
+    width: 10%;
+    height: 9%;
+}
+
+
